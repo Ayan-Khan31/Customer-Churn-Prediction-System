@@ -17,16 +17,16 @@ The application was built using Python, Scikit-learn, Streamlit, and Plotly to s
 
 ## Features
 
-✅ Customer churn prediction using Machine Learning
-✅ Random Forest classification model
-✅ Real-time churn probability analysis
-✅ KPI dashboard cards
-✅ Risk classification system
-✅ Business recommendation engine
-✅ Interactive analytics visualizations
-✅ Streamlit-based web application
-✅ Business Insights dashboard
-✅ Feature importance analysis
+- Customer churn prediction using Machine Learning
+- Random Forest classification model
+- Real-time churn probability analysis
+- KPI dashboard cards
+- Risk classification system
+- Business recommendation engine
+- Interactive analytics visualizations
+- Streamlit-based web application
+- Business Insights dashboard
+- Feature importance analysis
 
 ---
 
